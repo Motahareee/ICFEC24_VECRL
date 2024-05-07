@@ -1,10 +1,8 @@
-# VEC-RL
+# Reinforcement Learning-driven Data-intensive Workflow Scheduling for Volunteer Edge-Cloud
 
-
-![Image](/Figures/system.png)
 
 <div style="display: flex;">
-    <img src="/Figures/system.png" width="400" />
+    <img src="/Figures/system.png" width="300" />
     <img src="/Figures/model.jpg" width="400" />
 </div>
 
